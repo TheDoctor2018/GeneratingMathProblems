@@ -4,7 +4,6 @@ Functions that deal with verifying numbers and print out math problems.
 
 #Library imports
 import random
-import pylance
 
 #list of bad values
 bad_values =[420,32,69,666]
