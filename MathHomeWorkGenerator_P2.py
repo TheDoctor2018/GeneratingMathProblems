@@ -26,4 +26,5 @@ y = random.randrange(1,1000)
 
 # print values
 print( x, y)
+print("Workspace working?")
 
